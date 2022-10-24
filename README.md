@@ -1,2 +1,2 @@
-# Dmitry Poroshin
+# Dmitry Poroshin (poroshindm)
 Front-end developer.
