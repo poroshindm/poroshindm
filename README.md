@@ -1,2 +1,2 @@
 # Dmitry Poroshin (poroshindm)
-Front-end developer.
+Front-end developer: Vue.js
