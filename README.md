@@ -1,2 +1,2 @@
 # Dmitry Poroshin (poroshindm)
-Front-end developer: Vue.js, Vite, Angular
+Front-end developer: Vue.js, Vite, Angular, React
