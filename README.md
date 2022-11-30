@@ -2,7 +2,14 @@
 
 I am a front-end developer and entrepreneur with a passion for web and mobile development.
 
-Coding in: Vue.js, Vite, React, Bootstrap 4 and 5, Tailwind CSS and others.
+## Technologies & Tools
+
+### Programming
+
+Vue.js, Vite, React, Bootstrap 4 and 5, Tailwind CSS and others.
+
+### Hardware
+Raspberry PI
 
 ## Connect with me
 
@@ -13,3 +20,6 @@ Coding in: Vue.js, Vite, React, Bootstrap 4 and 5, Tailwind CSS and others.
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Contact%20me%20on%20LinkedIn-informational?style=flat&logo=linkedin&logoColor=E15718&color=black"/>
   </a>
 </p>
+
+<!-- Resources -->
+<!-- Shields: https://shields.io/ -->
