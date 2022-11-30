@@ -13,7 +13,7 @@ Raspberry PI
 
 ## Connect with me
 
-<p align="center">
+<p>
   <a href="https://github.com/poroshindm">
     <img aligh="center" alt="GitHub" src="https://img.shields.io/badge/Follow%20me%20on%20Github-informational?style=flat&logo=github&logoColor=E15718&color=black"/>
   </a> | <a href="https://www.linkedin.com/in/dmitry-poroshin-0a8259258/">
