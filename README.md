@@ -2,6 +2,8 @@
 
 I am a front-end developer and entrepreneur with a passion for web and mobile development.
 
+I specialize in designing, building, and optimizing modern web and mobile user experiences that are intuitive, delightful, and beautiful.
+
 ## Technologies & Tools
 
 ### Programming
