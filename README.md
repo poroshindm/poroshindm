@@ -25,6 +25,12 @@ Raspberry PI
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Contact%20me%20on%20LinkedIn-informational?style=flat&logo=linkedin&logoColor=E15718&color=black"/>
   </a>
 </p>
+<p>
+  <a href="https://poroshindmitry.com/">
+    <img align="center" alt="Website" src="https://img.shields.io/badge/Website%20me%20on%20Website-informational?style=flat&logo=linkedin&logoColor=E15718&color=black"/>
+  </a>
+</p>
+
 
 <!-- Resources -->
 <!-- Shields: https://shields.io/ -->
