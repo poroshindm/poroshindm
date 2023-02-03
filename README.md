@@ -8,7 +8,7 @@ I specialize in designing, building, and optimizing modern web and mobile user e
 
 ### Programming
 
-Vue.js, Vite, React, Bootstrap 4 and 5, Firebase, Tailwind CSS and others.
+Vue.js, Vite, React, Bootstrap 4 and 5, Firebase, Tailwind CSS and many others.
 
 ### Hardware
 Raspberry PI
